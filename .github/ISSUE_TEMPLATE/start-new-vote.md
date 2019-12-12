@@ -1,29 +1,26 @@
 ---
-name: Record mailing list vote
-about: Record mailing list vote
+name: Start new vote
+about: User this template to start a new vote
 title: ''
-labels: resolution
+labels: needs vote
 assignees: ''
 
 ---
 
 Date of voting
 ===========
-2020-12-12
+Issue's closing date
 
 Proponent
 ========
-
+Issue submitter
 
 Rationale
 =======
 
-
 Votes
 =====
-In favour: 
-Against:
-
+use reactions
 
 Decision
 =======
