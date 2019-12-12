@@ -1,4 +1,3 @@
-
 ---
 name: Record mailing list vote
 about: Record mailing list vote
