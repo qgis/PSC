@@ -12,4 +12,4 @@ jobs:
         with:
           project: Todo
           column: Todo
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GH_TOKEN }}
