@@ -2,7 +2,7 @@
 name: Create TODO
 about: Create TODO
 title: ''
-labels: ''
+labels: todo
 assignees: ''
 
 ---
